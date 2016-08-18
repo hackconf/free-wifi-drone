@@ -113,4 +113,4 @@ Password: <no password>
 
 ## Credits
 
-Built for the annual Major League Hacking contest by @courtney, @morgan, and @alex.
+Built for the annual Major League Hacking contest by Courtney, Morgan, and Alex.
